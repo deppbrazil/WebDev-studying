@@ -10,6 +10,7 @@
 * [iMasters](https://imasters.com.br/)
 * [Devmedia](https://www.devmedia.com.br/)
 * [Codrops](https://tympanus.net/codrops/)
+* [Medium](https://medium.com)
 
 ## Material Design / Design / Inspirations ##
 * [Awwwards](https://www.awwwards.com/)
