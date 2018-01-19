@@ -2,6 +2,17 @@
 
 ## First - Get Started course HTML5 Complete ## 
 * [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+
+## Courses References ##
+* [Udemy](https://www.udemy.com/)
+* [Alura](https://www.alura.com.br/)
+* [Caelum](https://www.caelum.com.br/)
+* [Origamid](https://www.origamid.com/)
+* [Udacity](https://br.udacity.com/)
+
+## Classroom Course ## 
+* [Caelum](https://www.caelum.com.br/formacao-frontend)
+* [Senac](http://www.sp.senac.br/jsp/default.jsp?newsID=DYNAMIC,oracle.br.dataservers.CourseDataServer,selectCourse&course=20083&template=380.dwt&unit=NONE&testeira=474)
 ## Sites Reference ## 
 * [W3Schools](https://www.w3schools.com/)
 * [Maujor](http://www.maujor.com/)
@@ -51,13 +62,6 @@
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * [PHP Storm](https://www.jetbrains.com/phpstorm/)
-
-## Courses References ##
-* [Udemy](https://www.udemy.com/)
-* [Alura](https://www.alura.com.br/)
-* [Caelum](https://www.caelum.com.br/)
-* [Origamid](https://www.origamid.com/)
-* [Udacity](https://br.udacity.com/)
 
 ## Books ## 
 * [Casa do Código](https://www.casadocodigo.com.br/)
