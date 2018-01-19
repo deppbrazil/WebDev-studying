@@ -3,6 +3,8 @@
 ## First - Get Started course HTML5 Complete ## 
 * [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 
+## Course complet - Web Development pt-br ##
+* [Roberto Civille Rodrigues](https://www.youtube.com/watch?time_continue=83&v=oRPeOWCvMYc)
 ## Courses References ##
 * [Udemy](https://www.udemy.com/)
 * [Alura](https://www.alura.com.br/)
