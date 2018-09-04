@@ -65,6 +65,6 @@
 * [Atom](https://atom.io/)
 * [PHP Storm](https://www.jetbrains.com/phpstorm/)
 
-## Books ## 
+## Book's ## 
 * [Casa do Código](https://www.casadocodigo.com.br/)
 * [A Web Mobile](http://sergiolopes.org/livro-web-mobile/)
