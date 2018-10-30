@@ -1,5 +1,7 @@
 # Web Development 2018 #
 
+[![Banner](assets/banner.jpg)](https://github.com/deppbrazil/WebDev-studying)
+
 ## First - Get Started course HTML5 Complete ## 
 * [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 
