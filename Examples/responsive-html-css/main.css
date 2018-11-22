@@ -20,8 +20,7 @@ body::-webkit-scrollbar {
 
 body::-webkit-scrollbar-thumb {
     background: purple;
-}  
-/* scroll bar */
+}
 
 section {
     background-color:rgb(32, 32, 32);
@@ -71,7 +70,6 @@ p:hover {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
 }
 
 .circle {
@@ -83,5 +81,7 @@ p:hover {
 
 /* media queries */
 @media screen and (max-width:320px) {
-    ...
+    .classe {
+        ...
+    }
 }
