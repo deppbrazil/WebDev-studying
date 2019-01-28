@@ -7,18 +7,13 @@
 * [Position](https://github.com/deppbrazil/WebDev-studying/tree/master/Examples/position)
 * [Responsive HTML/CSS](https://github.com/deppbrazil/WebDev-studying/tree/master/Examples/responsive-html-css)
 
-
 ### Os melhores blogs ### 
+* [Willian Justen](https://willianjusten.com.br/)
 * [Felipe Fialho](https://www.felipefialho.com)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/)
-* [Willian Justen](https://willianjusten.com.br/)
 * [Sergio Lopes](http://sergiolopes.org/)
 
-### Livros ### 
-* [Casa do Código](https://www.casadocodigo.com.br/)
-* [A Web Mobile](http://sergiolopes.org/livro-web-mobile/)
-
-### Sites de apoio ### 
+### Sites referências ### 
 * [W3Schools](https://www.w3schools.com/)
 * [Maujor](http://www.maujor.com/)
 * [Tableless](https://tableless.com.br/)
@@ -35,7 +30,7 @@
 * [Development Android](https://developer.android.com/design/index.html)
 * [FontAwesome 5](https://fontawesome.com/icons?d=gallery)
 
-### Escolas de referências ###
+### As melhores escolas online de cursos de programação ###
 * [Rocketseat](https://rocketseat.com.br/)
 * [Udemy](https://www.udemy.com/)
 * [Alura](https://www.alura.com.br/)
@@ -43,8 +38,11 @@
 * [Origamid](https://www.origamid.com/)
 * [Udacity](https://br.udacity.com/)
 
-### Cursos ###
-* [Formação Frontend](https://www.caelum.com.br/formacao-frontend)
+### Formação Frontend ###
+* [Formação Frontend - presencial](https://www.caelum.com.br/formacao-frontend)
+
+### A melhor formação sobre o ecossistema React (ReactJS[web], ReactNative[mobile] e NodeJS[backend]) ### 
+* [Rocketseat](https://rocketseat.com.br/)
 
 ### Cursos Rápidos ###
 * [Gustavo Guanabara - HTML5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
@@ -59,3 +57,8 @@
 * [JSFiddle](https://jsfiddle.net/)
 * [Testar HTML](http://testar-html.blogspot.com.br/)
 * [PHPFiddle](http://phpfiddle.org/)
+
+### Indcações de Livros ### 
+* *William Oliveira* [O universo da programação](https://www.casadocodigo.com.br/products/livro-universo-programacao)
+* [Casa do Código](https://www.casadocodigo.com.br/)
+* [A Web Mobile](http://sergiolopes.org/livro-web-mobile/)
